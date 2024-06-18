@@ -1,31 +1,37 @@
-## Ola! 👋 Meu nome é Gabriel Patricio
+ <img width=100% bottom=50px src="https://github.com/GabrielPatricioSantos/GabrielPatricioSantos/assets/123960853/3335555e-ae9a-4a2e-8674-6ee436e927cb">
 
-<div>
-  <img height=180em src="https://github-readme-stats.vercel.app/api?username=GabrielPatricioSantos">
-  <img height=180em src="https://github-readme-stats.vercel.app/api?username=GabrielPatricioSantos icons=true">
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Gabriel+Patricio;Estudante+de+Desenvolvimento+de+Software+Multiplataforma+na+Fatec)](https://git.io/typing-svg)
+
+<div align="center">
+  <h1>Minhas redes:</h1>
+   <a href="https://www.linkedin.com/in/gabriel-patricio-bastos-dos-santos-778b5a23a/">
+        <img align="center" alt="Imagem-LinkedIn" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
+    </a>
+    <a href="https://cursos.alura.com.br/user/gabriel-sant05">
+        <img align="center" alt="Imagem-Alura" height="40" width="40" src="https://play-lh.googleusercontent.com/yDjaHCaOn_O89vnY7eOKH6ElEBtJrmN2CSI4yhiP1_GVC2zrxXWSFGxO0lt9-CU0mV4">
+    </a>
+   
+</div>
+<br><br>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GabrielPatricioSantos&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
 </div>
 
-<!--
-**GabrielPatricioSantos/GabrielPatricioSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Hoje sou estágiario de Infraetrutura na Cleartech
-- 🌱 Estou aprendendo Python, Java, SQL, e tecnologias front-end 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 Fale comigo através do e-mail: gabriel.sant05@outlook.com ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+### Main Skills:
+<div align="center" style="gap:"1em";">
+  
+  <img align="center" alt="Imagem-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Imagem-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Imagem-Bootstrap" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Imagem-JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Imagem-Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Imagem-Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="Imagem-SQL" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Imagem-AWS" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-aws-1869025-1583149.png?f=avif&w=256">
+  <img align="center" alt="Imagem-VSCODE" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  
 </div>
+
