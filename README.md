@@ -8,7 +8,7 @@
  
 
 <div align="center">
-  <h1>Minhas redes:</h1>
+  <p><i>Minhas redes:</i></p>
    <a href="https://www.linkedin.com/in/gabriel-patricio-bastos-dos-santos-778b5a23a/">
         <img align="center" alt="Imagem-LinkedIn" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
     </a>
@@ -20,14 +20,15 @@
 <br><br>
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GabrielPatricioSantos&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
+![GabrielPatricioSantos's Stats](https://github-readme-stats.vercel.app/api?username=GabrielPatricioSantos&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
 </div>
 
-### Main Skills:
+
 <div align="center">
-  
+  <p><i>Main Skills:</i></p>
   <img align="center" alt="Imagem-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Imagem-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Imagem-Bootstrap" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
