@@ -2,6 +2,11 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Gabriel+Patricio;Estudante+de+Desenvolvimento+de+Software+Multiplataforma+na+Fatec)](https://git.io/typing-svg)
 
+ <p>- Estudante de Desenvolvimento de Software na Fatec.</p>
+ <p>- Estudante na Alura, focado em Python, SQL e Java.</p>
+ 
+ 
+
 <div align="center">
   <h1>Minhas redes:</h1>
    <a href="https://www.linkedin.com/in/gabriel-patricio-bastos-dos-santos-778b5a23a/">
@@ -21,7 +26,7 @@
 </div>
 
 ### Main Skills:
-<div align="center" style="gap:"1em";">
+<div align="center">
   
   <img align="center" alt="Imagem-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Imagem-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
