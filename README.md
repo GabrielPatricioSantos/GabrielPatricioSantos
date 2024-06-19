@@ -9,15 +9,21 @@
 
 <div align="center">
   <p><i>Minhas redes:</i></p>
-   <a href="https://www.linkedin.com/in/gabriel-patricio-bastos-dos-santos-778b5a23a/">
+  <div> 
+  
+ <a href="https://www.linkedin.com/in/gabriel-patricio-bastos-dos-santos-778b5a23a/">
         <img align="center" alt="Imagem-LinkedIn" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
     </a>
     <a href="https://cursos.alura.com.br/user/gabriel-sant05">
         <img align="center" alt="Imagem-Alura" height="40" width="40" src="https://play-lh.googleusercontent.com/yDjaHCaOn_O89vnY7eOKH6ElEBtJrmN2CSI4yhiP1_GVC2zrxXWSFGxO0lt9-CU0mV4">
     </a>
-   
+     <a href="mailto:gabrielpatriciosantoz@gmail.com">
+        <img align="center" alt="Imagem-Alura" height="40" width="40" src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg">
+    </a>
+  
 </div>
-<br><br>
+</div>
+<br>
 
 <div align="center">
 
