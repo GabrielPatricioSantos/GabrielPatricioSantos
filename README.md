@@ -4,7 +4,7 @@
 
  <p>- Estudante de Desenvolvimento de Software na Fatec.</p>
  <p>- Atualmente, realizando estágio em Infraestrutura na Cleartech.</p>
- 
+ <br>
  
 
 <div align="center">
@@ -27,10 +27,9 @@
 
 <div align="center">
 
-![GabrielPatricioSantos's Stats](https://github-readme-stats.vercel.app/api?username=GabrielPatricioSantos&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPatricioSantos&layout=compact&hide_border=true&title_color=1E90FF&text_color=fff&bg_color=0d1117" />
 
-
-</div>
+</div> <br>
 
 
 <div align="center">
