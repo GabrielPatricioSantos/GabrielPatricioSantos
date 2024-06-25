@@ -42,7 +42,7 @@
   <img align="center" alt="Imagem-SQL" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Imagem-AWS" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-aws-1869025-1583149.png?f=avif&w=256">
   <img align="center" alt="Imagem-VSCODE" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Imagem-Alura" height="40" width="40" src="https://toppng.com/uploads/preview/but-disconnected-systems-and-processes-hold-your-customer-servicenow-logo-115629671508wfpjptb5z.png">
+  <img align="center" alt="Imagem-Alura" height="30" width="110" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ServiceNow_logo.svg/2560px-ServiceNow_logo.svg.png">
   
 </div>
 
