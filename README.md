@@ -20,8 +20,8 @@
      <a href="mailto:gabrielpatriciosantoz@gmail.com">
         <img align="center" alt="Imagem-Alura" height="40" width="40" src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg">
     </a>
-  
-</div>
+
+ </div>
 </div>
 <br>
 
@@ -42,6 +42,7 @@
   <img align="center" alt="Imagem-SQL" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Imagem-AWS" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-aws-1869025-1583149.png?f=avif&w=256">
   <img align="center" alt="Imagem-VSCODE" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Imagem-Alura" height="40" width="40" src="https://toppng.com/uploads/preview/but-disconnected-systems-and-processes-hold-your-customer-servicenow-logo-115629671508wfpjptb5z.png">
   
 </div>
 
