@@ -6,8 +6,7 @@
  <p>-Sou formado em Desenvolvimento de Software, com experiência em análise de dados, CRM e 
 acompanhamento de indicadores. Atuo com SQL, Python e Power BI na organização de bases, criação de 
 relatórios e dashboards, apoiando decisões estratégicas e ações voltadas à melhoria do relacionamento com 
-clientes. Tenho interesse em integrar o time, contribuindo com análises orientadas a dados, visão de negócio e 
-sempre ampliando o conhecimento de forma contínua. </p>
+clientes.</p>
  <br>
  
 
@@ -38,7 +37,7 @@ sempre ampliando o conhecimento de forma contínua. </p>
 
 <div align="center">
   <p><i>Main Skills:</i></p>
-  <img align="center" alt="Imagem-Excel" height="40" width="50" src="https://logowik.com/content/uploads/images/microsoft-excel-new.jpg">
+  <img align="center" alt="Imagem-Excel" height="40" width="50" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0-2048x2048.png">
   <img align="center" alt="Imagem-PowerBI" height="40" width="40" src="https://logowik.com/content/uploads/images/microsoft-power-bi4194.jpg">
   <img align="center" alt="Imagem-Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Imagem-SQL" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
