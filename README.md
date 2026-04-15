@@ -30,7 +30,7 @@ Estudante de **Desenvolvimento de Software Multiplataforma** na Fatec, com exper
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -41,7 +41,7 @@ Estudante de **Desenvolvimento de Software Multiplataforma** na Fatec, com exper
 
 ---
 
-## 📬 Contato
+## Contato
 
 <div align="center">
 
