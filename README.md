@@ -37,13 +37,13 @@ clientes.</p>
 
 <div align="center">
   <p><i>Main Skills:</i></p>
-  <img align="center" alt="Imagem-Excel" height="40" width="50" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0-2048x2048.png">
-  <img align="center" alt="Imagem-PowerBI" height="40" width="40" src="https://logowik.com/content/uploads/images/microsoft-power-bi4194.jpg">
-  <img align="center" alt="Imagem-Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="Imagem-SQL" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Imagem-AWS" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-aws-1869025-1583149.png?f=avif&w=256">
-  <img align="center" alt="Imagem-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Imagem-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Imagem-Excel" height="40" width="50" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0-2048x2048.png"><br>
+  <img align="center" alt="Imagem-PowerBI" height="40" width="40" src="https://logowik.com/content/uploads/images/microsoft-power-bi4194.jpg"><br>
+  <img align="center" alt="Imagem-Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><br>
+  <img align="center" alt="Imagem-SQL" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"><br>
+  <img align="center" alt="Imagem-AWS" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-aws-1869025-1583149.png?f=avif&w=256"><br>
+  <img align="center" alt="Imagem-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br>
+  <img align="center" alt="Imagem-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>
   <img align="center" alt="Imagem-VSCODE" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   
 </div>
