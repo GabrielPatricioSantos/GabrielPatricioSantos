@@ -3,9 +3,6 @@
 <!-- Banner -->
 <img width="100%" src="https://github.com/GabrielPatricioSantos/GabrielPatricioSantos/assets/123960853/3335555e-ae9a-4a2e-8674-6ee436e927cb">
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&width=500&lines=Ol%C3%A1!+Sou+Gabriel+Patricio+%F0%9F%91%8B;Estudante+na+Fatec+%7C+Desenvolvimento+de+Software;Dados+%7C+SQL+%7C+Python+%7C+Power+BI)](https://git.io/typing-svg)
-
 </div>
 
 ---
