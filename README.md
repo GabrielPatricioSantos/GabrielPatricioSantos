@@ -7,13 +7,13 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Estudante de **Desenvolvimento de Software Multiplataforma** na Fatec, com experiência prática em **análise de dados**, CRM e acompanhamento de indicadores. Atuo com SQL, Python e Power BI na organização de bases, criação de relatórios e dashboards, apoiando decisões estratégicas voltadas à melhoria do relacionamento com clientes.
 
 ---
 
-## 🛠️ Habilidades
+## Habilidades
 
 <div align="center">
 
