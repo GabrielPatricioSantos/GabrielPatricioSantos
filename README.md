@@ -1,50 +1,56 @@
- <img width=100% bottom=50px src="https://github.com/GabrielPatricioSantos/GabrielPatricioSantos/assets/123960853/3335555e-ae9a-4a2e-8674-6ee436e927cb">
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Gabriel+Patricio;Estudante+de+Desenvolvimento+de+Software+Multiplataforma+na+Fatec)](https://git.io/typing-svg)
-
- <p>- Estudante de Desenvolvimento de Software na Fatec.</p>
- <p>-Sou formado em Desenvolvimento de Software, com experiência em análise de dados, CRM e 
-acompanhamento de indicadores. Atuo com SQL, Python e Power BI na organização de bases, criação de 
-relatórios e dashboards, apoiando decisões estratégicas e ações voltadas à melhoria do relacionamento com 
-clientes.</p>
- <br>
- 
-
 <div align="center">
-  <p><i>Minhas redes:</i></p>
-  <div> 
-  
- <a href="https://www.linkedin.com/in/gabriel-patricio-bastos-dos-santos-778b5a23a/">
-        <img align="center" alt="Imagem-LinkedIn" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
-    </a><br><br>
-    <a href="https://cursos.alura.com.br/user/gabriel-sant05">
-        <img align="center" alt="Imagem-Alura" height="40" width="40" src="https://play-lh.googleusercontent.com/yDjaHCaOn_O89vnY7eOKH6ElEBtJrmN2CSI4yhiP1_GVC2zrxXWSFGxO0lt9-CU0mV4">
-    </a><br><br>
-     <a href="mailto:gabriel.sant05@outlook.com">
-        <img align="center" alt="Imagem-Alura" height="40" width="40" src="https://logowik.com/content/uploads/images/microsoft-outlook-new.jpg">
-    </a>
 
- </div>
+<!-- Banner -->
+<img width="100%" src="https://github.com/GabrielPatricioSantos/GabrielPatricioSantos/assets/123960853/3335555e-ae9a-4a2e-8674-6ee436e927cb">
+
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&width=500&lines=Ol%C3%A1!+Sou+Gabriel+Patricio+%F0%9F%91%8B;Estudante+na+Fatec+%7C+Desenvolvimento+de+Software;Dados+%7C+SQL+%7C+Python+%7C+Power+BI)](https://git.io/typing-svg)
+
 </div>
-<br>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Estudante de **Desenvolvimento de Software Multiplataforma** na Fatec, com experiência prática em **análise de dados**, CRM e acompanhamento de indicadores. Atuo com SQL, Python e Power BI na organização de bases, criação de relatórios e dashboards, apoiando decisões estratégicas voltadas à melhoria do relacionamento com clientes.
+
+---
+
+## 🛠️ Habilidades
 
 <div align="center">
 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPatricioSantos&layout=compact&hide_border=true&title_color=1E90FF&text_color=fff&bg_color=0d1117" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-</div> <br>
+</div>
 
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <p><i>Main Skills:</i></p>
-  <img align="center" alt="Imagem-Excel" height="40" width="50" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0-2048x2048.png"><br><br>
-  <img align="center" alt="Imagem-PowerBI" height="40" width="40" src="https://logowik.com/content/uploads/images/microsoft-power-bi4194.jpg"><br><br>
-  <img align="center" alt="Imagem-Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><br><br>
-  <img align="center" alt="Imagem-SQL" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"><br><br>
-  <img align="center" alt="Imagem-AWS" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-aws-1869025-1583149.png?f=avif&w=256"><br><br>
-  <img align="center" alt="Imagem-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br><br>
-  <img align="center" alt="Imagem-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br><br>
-  <img align="center" alt="Imagem-VSCODE" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  
+
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=GabrielPatricioSantos&show_icons=true&hide_border=true&title_color=1E90FF&text_color=fff&bg_color=0d1117&count_private=true" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPatricioSantos&layout=compact&hide_border=true&title_color=1E90FF&text_color=fff&bg_color=0d1117" />
+
+</div>
+
+---
+
+## 📬 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-patricio-bastos-dos-santos-778b5a23a/)
+[![Alura](https://img.shields.io/badge/Alura-EF6C00?style=for-the-badge&logo=alura&logoColor=white)](https://cursos.alura.com.br/user/gabriel-sant05)
+[![E-mail](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:gabriel.sant05@outlook.com)
+
 </div>
 
